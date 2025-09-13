@@ -6,4 +6,4 @@ It uses a process create notify routine to make any newly created process have t
 
 ## Screenshots
 
-![App Screenshot](https://raw.githubusercontent.com/rootkitenthusiast/alt-syscall-monitor/refs/heads/main/image.png?token=GHSAT0AAAAAADLDQVFWKS5DPR5QJ45NDKFU2GF2FGA)
+![App Screenshot](https://raw.githubusercontent.com/rootkitenthusiast/alt-syscall-monitor/refs/heads/main/image.png)

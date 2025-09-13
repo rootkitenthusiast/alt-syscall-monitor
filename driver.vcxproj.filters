@@ -19,18 +19,18 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="main.cpp">
+    <ClCompile Include="project\main.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="common.h">
+    <ClInclude Include="project\common.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="ketypes.h">
+    <ClInclude Include="project\ketypes.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="mmtypes.h">
+    <ClInclude Include="project\mmtypes.h">
       <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>

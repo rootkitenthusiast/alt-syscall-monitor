@@ -131,12 +131,12 @@
     <FilesToPackage Include="$(TargetPath)" />
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="main.cpp" />
+    <ClCompile Include="project\main.cpp" />
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="common.h" />
-    <ClInclude Include="ketypes.h" />
-    <ClInclude Include="mmtypes.h" />
+    <ClInclude Include="project\common.h" />
+    <ClInclude Include="project\ketypes.h" />
+    <ClInclude Include="project\mmtypes.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
